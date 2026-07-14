@@ -9,4 +9,4 @@ Our task is to reconstruct realistic soccer game scenes in a virtual soccer envi
 ## Timeline
 #### 2026.02.21 The paper has been accepted to CVPR 2026.
 #### 2026.06.04 Paper published online.
-#### 2026.06.05-2026.08.15 The dataset will be released no later than August 15th.
+#### 2026.06.05-2026.08.15 The dataset will be released no later than August.
