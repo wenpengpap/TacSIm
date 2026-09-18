@@ -9,4 +9,12 @@ Our task is to reconstruct realistic soccer game scenes in a virtual soccer envi
 ## Timeline
 #### 2026.02.21 The paper has been accepted to CVPR 2026.
 #### 2026.06.04 Paper published online.
-#### 2026.06.05-2026.08 The dataset will be released August.
+#### 2026.09 Public dataset
+
+## Dataset address
+[Google Drive](https://drive.google.com/drive/folders/12UFZcP00x63cXDKqX22awFFnKomylhiP)
+[Baidu Netdisk](https://pan.baidu.com/s/1v2-x9JpoFZbDsetMghqAHw?pwd=7gah)
+
+## Online Benchmark Test
+[Benchmark](https://www.kaggle.com/competitions/tac-s-im-football-tactical-style-imitation-benchmark)
+
