@@ -16,5 +16,5 @@ Our task is to reconstruct realistic soccer game scenes in a virtual soccer envi
 [Baidu Netdisk](https://pan.baidu.com/s/1v2-x9JpoFZbDsetMghqAHw?pwd=7gah)
 
 ## Online Benchmark Test
-[Benchmark](https://www.kaggle.com/competitions/tac-s-im-football-tactical-style-imitation-benchmark)
+[Benchmark](https://www.kaggle.com/competitions/tacsim)
 
