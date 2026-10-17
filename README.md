@@ -3,7 +3,7 @@
 
 ### A Dataset and Benchmark for Football Tactical Style Imitation
 
-**CVPR 2026** · **Peng Wen** · **Yuting Wang** · **Qiurui Wang**
+**CVPR 2026**
 
 
 <p>
@@ -26,7 +26,7 @@
 
 Starting from English Premier League broadcast footage, the framework reconstructs the positions of **all 11 players and the ball** in a normalized pitch-coordinate system and supports tactical imitation in a virtual football environment.
 <img width="1914" height="755" alt="figure1_overview" src="https://github.com/user-attachments/assets/0c150f0a-cbb6-4a1d-aa9d-9be63532ba79" />
-<p align="center"><em>Figure 1 (from our paper). Real match footage → pitch-coordinate reconstruction → multi-agent tactical imitation in simulation.</em></p>
+<p align="center"><em>Figure 1 . Real match footage → pitch-coordinate reconstruction → multi-agent tactical imitation in simulation.</em></p>
 
 ## Highlights
 
@@ -66,9 +66,8 @@ The paper evaluates **BC**, **CMIL**, **IRL**, **CoDAIL**, and **DRAIL** at diff
 </p>
 
 ### Qualitative visualization
-
-
-<p align="center"><em>Figure 3 (from our paper). Real vs. virtual trajectories at three spatial grid resolutions (15 × 10, 20 × 12, and 30 × 20).</em></p>
+<img width="3860" height="641" alt="figure3_visualization" src="https://github.com/user-attachments/assets/a901a17c-e920-4d6d-b97a-fa475c0ea0c9" />
+<p align="center"><em>Figure 2 . Real vs. virtual trajectories at three spatial grid resolutions (15 × 10, 20 × 12, and 30 × 20).</em></p>
 
 ## News
 
