@@ -1,3 +1,4 @@
+<img width="1914" height="755" alt="figure1_overview" src="https://github.com/user-attachments/assets/7fbbca6a-7bf6-400c-9db9-b3737ed0cf53" />
 <div align="center">
 
 # TacSIm
@@ -6,7 +7,6 @@
 
 **CVPR 2026** · **Peng Wen** · **Yuting Wang** · **Qiurui Wang**
 
-*Capital University of Physical Education and Sports, Beijing, China*
 
 <p>
   <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Wen_TacSIm_A_Dataset_and_Benchmark_for_Football_Tactical_Style_Imitation_CVPR_2026_paper.html"><img src="https://img.shields.io/badge/Paper-CVPR%202026-2563eb?style=for-the-badge" alt="CVPR 2026 Paper"></a>
@@ -27,6 +27,7 @@
 **TacSIm** introduces a large-scale dataset and benchmark for **football tactical style imitation**. Unlike approaches that primarily optimize game outcomes (e.g., goals or win rates), TacSIm focuses on reproducing the **spatial organization and movement patterns** of real football teams.
 
 Starting from English Premier League broadcast footage, the framework reconstructs the positions of **all 22 players and the ball** in a normalized pitch-coordinate system and supports tactical imitation in a virtual football environment.
+<img width="1914" height="755" alt="figure1_overview" src="https://github.com/user-attachments/assets/0c150f0a-cbb6-4a1d-aa9d-9be63532ba79" />
 
 <p align="center">
   <img src="assets/figure1_overview.png" alt="Figure 1: TacSIm overview from the CVPR 2026 paper" width="100%">
@@ -105,11 +106,6 @@ If TacSIm is useful for your research, please consider citing our paper:
   year      = {2026}
 }
 ```
-
-## Contact
-
-For questions or feedback, please contact **Qiurui Wang** at [wangqiurui@cupes.edu.cn](mailto:wangqiurui@cupes.edu.cn).
-
 ---
 
 <div align="center">
