@@ -1,5 +1,3 @@
-<img width="1914" height="755" alt="figure1_overview" src="https://github.com/user-attachments/assets/7fbbca6a-7bf6-400c-9db9-b3737ed0cf53" />
-<div align="center">
 
 # TacSIm
 
@@ -26,12 +24,8 @@
 
 **TacSIm** introduces a large-scale dataset and benchmark for **football tactical style imitation**. Unlike approaches that primarily optimize game outcomes (e.g., goals or win rates), TacSIm focuses on reproducing the **spatial organization and movement patterns** of real football teams.
 
-Starting from English Premier League broadcast footage, the framework reconstructs the positions of **all 22 players and the ball** in a normalized pitch-coordinate system and supports tactical imitation in a virtual football environment.
+Starting from English Premier League broadcast footage, the framework reconstructs the positions of **all 11 players and the ball** in a normalized pitch-coordinate system and supports tactical imitation in a virtual football environment.
 <img width="1914" height="755" alt="figure1_overview" src="https://github.com/user-attachments/assets/0c150f0a-cbb6-4a1d-aa9d-9be63532ba79" />
-
-<p align="center">
-  <img src="assets/figure1_overview.png" alt="Figure 1: TacSIm overview from the CVPR 2026 paper" width="100%">
-</p>
 <p align="center"><em>Figure 1 (from our paper). Real match footage → pitch-coordinate reconstruction → multi-agent tactical imitation in simulation.</em></p>
 
 ## Highlights
@@ -48,15 +42,6 @@ Starting from English Premier League broadcast footage, the framework reconstruc
 ## Dataset
 
 TacSIm is built from broadcast footage of **140 matches** from the **2024–2025 English Premier League** season. The dataset contains player and ball trajectories with tactical-phase annotations. As described in the paper, the train/validation/test partition is **match-disjoint** to reduce leakage across splits.
-
-### Dataset statistics
-
-| Split | Video segments | Duration (s) | Proportion |
-|:--|--:|--:|--:|
-| Training | 27,240 | 136,195 | 70% |
-| Validation | 5,837 | 29,185 | 15% |
-| Test | 5,836 | 29,185 | 15% |
-| **Total** | **38,913** | **194,565** | **100%** |
 
 ### Download
 
@@ -82,9 +67,7 @@ The paper evaluates **BC**, **CMIL**, **IRL**, **CoDAIL**, and **DRAIL** at diff
 
 ### Qualitative visualization
 
-<p align="center">
-  <img src="assets/figure3_visualization.png" alt="Figure 3: Comparison of real and virtual trajectories at different spatial grid resolutions" width="100%">
-</p>
+
 <p align="center"><em>Figure 3 (from our paper). Real vs. virtual trajectories at three spatial grid resolutions (15 × 10, 20 × 12, and 30 × 20).</em></p>
 
 ## News
